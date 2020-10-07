@@ -1,0 +1,13 @@
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.exe
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.deps.json
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.runtimeconfig.json
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.runtimeconfig.dev.json
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.dll
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\bin\Debug\netcoreapp3.1\SampleProgram.pdb
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.AssemblyInfoInputs.cache
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.AssemblyInfo.cs
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.csproj.CoreCompileInputs.cache
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.dll
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.pdb
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.genruntimeconfig.cache
+C:\Users\fablu\source\repos\DevOpsTutorial\SampleProgram\SampleProgram\obj\Debug\netcoreapp3.1\SampleProgram.csprojAssemblyReference.cache
