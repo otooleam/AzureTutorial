@@ -23,7 +23,7 @@ namespace SampleProgram.UnitTests
         public void Sub()
         {
             SampleCode sample = new SampleCode();
-            Assert.AreEqual(10, sample.Sub(20, 11));
+            Assert.AreEqual(10, sample.Sub(20, 10));
         }
     }
 }
