@@ -4603,11 +4603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram.UnitTests\\SampleProgram.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram.UnitTests\\SampleProgram.UnitTests.csproj",
       "projectName": "SampleProgram.UnitTests",
-      "projectPath": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram.UnitTests\\SampleProgram.UnitTests.csproj",
+      "projectPath": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram.UnitTests\\SampleProgram.UnitTests.csproj",
       "packagesPath": "C:\\Users\\fablu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4628,8 +4628,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj": {
-              "projectPath": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj"
+            "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj": {
+              "projectPath": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj"
             }
           }
         }

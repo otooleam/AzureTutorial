@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj": {}
+    "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj": {
+    "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj",
+        "projectUniqueName": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj",
         "projectName": "SampleProgram",
-        "projectPath": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj",
+        "projectPath": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram\\SampleProgram\\SampleProgram.csproj",
         "packagesPath": "C:\\Users\\fablu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram\\SampleProgram\\obj\\",
+        "outputPath": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram\\SampleProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

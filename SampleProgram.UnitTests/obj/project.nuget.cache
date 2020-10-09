@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4TJlK/pBakQo2OPx9wFxfr3h2zOQm+Ccy89psS8Sf3AvFzL5DCX3GmDq4sHu6tiFA6OZtAvAdmczpYpHKmzLQ==",
+  "dgSpecHash": "PdkVbXOkN3HNPUQb8RLkHV4fP9FmdRg2Lq8Cz7UN/SlodTmykOdB6tUqP3QzPV1C7PO/YDcR9s2iPcz9L8lA0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fablu\\Source\\Repos\\AzureTutorial\\SampleProgram.UnitTests\\SampleProgram.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\fablu\\source\\repos\\AzureTutorial\\SampleProgram.UnitTests\\SampleProgram.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fablu\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
